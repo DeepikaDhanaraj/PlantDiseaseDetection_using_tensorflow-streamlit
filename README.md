@@ -18,7 +18,7 @@ step6:Fit the Model and Perform Evaluation
 step8:Make sure that app.py and training model are present in same working directory
 step9:In cmd/terminal type streamlit run main.py
 step10:The Upload the images in streamlit and get predictions
-![output](https://github.com/DeepikaDhanaraj/PlantDiseaseDetection_using_tensorflow-streamlit/output/ps1.png)
+![output](https://github.com/DeepikaDhanaraj/PlantDiseaseDetection_using_tensorflow-streamlit/blob/main/output/ps1.png)
 
 
 
