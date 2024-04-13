@@ -1,7 +1,6 @@
 ## PlantDiseaseDection
 Develop a plant disease detection system using TensorFlow and Streamlit to accurately identify various diseases affecting plants from images. The system should efficiently classify images of plant leaves as healthy or diseased,The goal is to empower farmers and agricultural stakeholders with a user-friendly tool for early detection and management of plant diseases, ultimately enhancing crop productivity and reducing agricultural losses.
-## Generic Flow Of Project
-![image](https://github.com/DeepikaDhanaraj/PlantDiseaseDetection_using_tensorflow-streamlit/assets/133857686/085e3095-0f2a-4a6b-bedc-f79cde7dadff)
+
 
 ## Dataset
 [Download the dataset  from here](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
@@ -27,7 +26,7 @@ step8:Make sure that app.py and training model are present in same working direc
 
 step9:In cmd/terminal type streamlit run main.py
 
-step10:The Upload the images in streamlit and get predictions
+step10:Then Upload the images in streamlit and get predictions
 
 ![output](https://github.com/DeepikaDhanaraj/PlantDiseaseDetection_using_tensorflow-streamlit/blob/main/output/ps1.png)
 
